@@ -1,4 +1,4 @@
-👋 Hey, I'm Angelo Cuffone
+👋 Hey, I'm Angelo Ciffone
 
 Ever since I birthed my brainchild "Canal" – a React/Rails lovechild – I've been on a coding joyride, leaving trails of semicolons and curly braces wherever I go.
 
